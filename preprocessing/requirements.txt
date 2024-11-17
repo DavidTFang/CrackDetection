@@ -1,0 +1,6 @@
+coloredlogs==15.0.1
+humanfriendly==10.0
+pyreadline3==3.5.4
+setuptools==75.5.0
+split-folders==0.5.1
+wheel==0.45.0
