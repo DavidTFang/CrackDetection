@@ -1,4 +1,7 @@
 *.png
 *.jpeg
 *.jpg
+modeltraining/job4segdataset
+*.pt
+preprocessing/__pycache__
 output
